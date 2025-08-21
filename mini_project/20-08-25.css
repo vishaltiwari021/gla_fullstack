@@ -1,0 +1,36 @@
+ #first{
+    border: 4px solid rgb(6, 102, 126);
+    background-color: rgba(7, 138, 138, 0.575);
+    padding: 10px;
+    margin: 10px;
+    height: 200px;
+    width: 300px;
+    margin-left: 40rem;
+ }
+ #first legend{
+    font-weight: bold;
+ }
+ #second{
+    border: 4px solid rgb(6, 102, 126);
+    background-color: rgba(7, 138, 138, 0.575);
+    padding: 10px;
+    margin: 10px;
+    height: 200px;
+    width: 300px;
+    margin-left: 40rem;
+ }
+ #second legend{
+    font-weight: bold;
+ }
+ #third{
+    border: 4px solid rgb(6, 102, 126);
+    background-color: rgba(7, 138, 138, 0.575);
+    padding: 10px;
+    margin: 10px;
+    height: 100px;
+    width: 300px;
+    margin-left: 40rem;
+ }
+ #third legend{
+    font-weight: bold;
+ }
