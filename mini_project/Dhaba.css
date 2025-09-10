@@ -1,0 +1,77 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    margin: 20px;
+    padding: 23px;
+}
+.heading{
+    text-align: center;
+    background-color: maroon;
+    color: white;
+    padding: 10px;
+    border-radius: 20px;
+}
+.container
+{
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+    padding: 10px;
+}
+.sidebar{
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    width: 100%;
+    height: 100%;
+    background-color: rgb(240, 200, 70);
+    border: 2px solid black;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 15px;
+}
+
+.menu{
+    display: flex;
+    flex-direction: column;
+    width: 20%;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    gap: 20px;
+    padding: 10px;
+}
+.menu a{
+    text-decoration: none;
+    width: 10%;
+    color:white;
+    padding: 5px;
+}
+.btn{
+    display: flex;
+    gap: 20px;
+    margin: 10px;
+}
+.btn button{
+    background-color: rgb(57, 57, 163);
+    color: white;
+    padding: 5px;
+    border-radius: 5px;
+}
+footer{
+    background-color: maroon;
+    margin: 10px;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    border-radius: 20px;
+}
+#img{
+    width: 200px;
+    height: 150px;
+    border-radius: 10px;
+    margin-top: 10px;
+}
